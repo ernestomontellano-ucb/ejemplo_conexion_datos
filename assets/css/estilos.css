@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background: grey;
+    padding: 60px;
+}
+.cont_eventos{
+    padding: 20px;
+    border-radius: 20px;
+    background: white;
+
+}
+.lista_eventos{
+        display: flex;
+        padding: 10px;
+        gap:10px
+}
+.lista_eventos article{
+    background: #eee;
+    border-radius: 10px;
+    padding:15px;
+    display:flex;
+    flex-direction: column;
+    gap:6px;
+}

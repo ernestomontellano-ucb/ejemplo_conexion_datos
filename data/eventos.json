@@ -1,0 +1,47 @@
+{
+  "categorias": [
+    {
+      "nombre": "Conciertos",
+      "subcategorias": [
+        {
+          "nombre": "Rock alternativo",
+          "eventos": [
+            {
+              "id": "ruido-de-altura",
+              "titulo": "Ruido de altura",
+              "artista": "Los Días Eléctricos",
+              "fecha": "2026-12-04",
+              "hora": "20:30",
+              "lugar": "Sala Desnivel, Sopocachi",
+              "precioBs": 50,
+              "descripcion": "Los Días Eléctricos presentan su primer disco en un concierto de rock alternativo. La banda abrirá la noche con un set acústico y luego tocará el álbum completo junto a dos guitarristas invitados de la escena paceña. Las puertas se abren a las 19:30."
+            },
+            {
+              "id": "sesion-de-garaje",
+              "titulo": "Sesión de garaje",
+              "artista": "Cables Sueltos",
+              "fecha": "2026-12-05",
+              "hora": "19:00",
+              "lugar": "Patio del Eco, Miraflores",
+              "precioBs": 0
+            }
+          ]
+        },
+        {
+          "nombre": "Fusión andina",
+          "eventos": [
+            {
+              "id": "entre-cuerdas-y-viento",
+              "titulo": "Entre cuerdas y viento",
+              "artista": "Ensamble Río Arriba",
+              "fecha": "2026-12-06",
+              "hora": "18:30",
+              "lugar": "Casa Umbral, San Pedro",
+              "precioBs": 35
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

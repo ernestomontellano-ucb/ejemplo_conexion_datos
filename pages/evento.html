@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Detalle del concierto</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/regular/style.css">
+  <link rel="stylesheet" href="../assets/css/estilos.css">
   <script src="../assets/js/evento.js" defer></script>
 </head>
 <body>
@@ -16,8 +18,18 @@
       <p id="genero"></p>
       <h1 id="titulo"></h1>
       <p id="artista"></p>
-      <p id="fecha-lugar"></p>
-      <p id="entrada"></p>
+      <p class="dato-detalle">
+        <i class="ph ph-calendar-dots" aria-hidden="true"></i>
+        <time id="fecha-hora"></time>
+      </p>
+      <p class="dato-detalle">
+        <i class="ph ph-map-pin" aria-hidden="true"></i>
+        <span id="lugar"></span>
+      </p>
+      <p class="dato-detalle precio-detalle">
+        <i class="ph ph-ticket" aria-hidden="true"></i>
+        <span id="entrada"></span>
+      </p>
       <h2>Sobre el concierto</h2>
       <p id="descripcion"></p>
     </article>

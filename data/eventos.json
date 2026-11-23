@@ -23,7 +23,8 @@
               "fecha": "2026-12-05",
               "hora": "19:00",
               "lugar": "Patio del Eco, Miraflores",
-              "precioBs": 0
+              "precioBs": 0,
+              "descripcion": "Cables Sueltos transforma el Patio del Eco en un garaje abierto con guitarras crudas, canciones nuevas y versiones de clásicos del rock latino. El ingreso es libre hasta completar aforo."
             }
           ]
         },
@@ -37,7 +38,108 @@
               "fecha": "2026-12-06",
               "hora": "18:30",
               "lugar": "Casa Umbral, San Pedro",
-              "precioBs": 35
+              "precioBs": 35,
+              "descripcion": "El Ensamble Río Arriba combina charango, vientos andinos, violonchelo y percusión en un recorrido por composiciones inspiradas en los paisajes del altiplano."
+            },
+            {
+              "id": "raiz-electrica",
+              "titulo": "Raíz eléctrica",
+              "artista": "Kantuta Beat",
+              "fecha": "2026-12-10",
+              "hora": "20:00",
+              "lugar": "Teatro Nuna, Achumani",
+              "precioBs": 70,
+              "descripcion": "Kantuta Beat cruza ritmos tradicionales con sintetizadores, bajo eléctrico y visuales en vivo. El repertorio incluye piezas de su nuevo EP y arreglos contemporáneos de melodías populares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Festivales",
+      "subcategorias": [
+        {
+          "nombre": "Electrónica",
+          "eventos": [
+            {
+              "id": "pulso-nocturno",
+              "titulo": "Pulso nocturno",
+              "artista": "Luz Modular",
+              "fecha": "2026-12-11",
+              "hora": "22:00",
+              "lugar": "Bóveda 33, Centro",
+              "precioBs": 80,
+              "descripcion": "Una noche de electrónica en directo con secuencias analógicas, proyecciones generativas y una pista diseñada para escuchar y bailar. Luz Modular encabeza un cartel de tres proyectos locales."
+            },
+            {
+              "id": "frecuencia-alta",
+              "titulo": "Frecuencia alta",
+              "artista": "Colectivo Prisma",
+              "fecha": "2026-12-12",
+              "hora": "21:30",
+              "lugar": "Galpón Aurora, Villa Fátima",
+              "precioBs": 60,
+              "descripcion": "Colectivo Prisma reúne productores y artistas visuales para una sesión continua de house, techno melódico y ambient. La puesta en escena responde en tiempo real al sonido."
+            }
+          ]
+        },
+        {
+          "nombre": "Jazz y soul",
+          "eventos": [
+            {
+              "id": "ciudad-en-blue",
+              "titulo": "Ciudad en blue",
+              "artista": "Amaya & The North Lights",
+              "fecha": "2026-12-13",
+              "hora": "19:30",
+              "lugar": "Círculo Italiano, Centro",
+              "precioBs": 90,
+              "descripcion": "Amaya & The North Lights presentan una selección de soul contemporáneo, jazz vocal y composiciones propias en formato de sexteto, con una sección dedicada a autoras latinoamericanas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sesiones especiales",
+      "subcategorias": [
+        {
+          "nombre": "Acústico",
+          "eventos": [
+            {
+              "id": "voces-al-atardecer",
+              "titulo": "Voces al atardecer",
+              "artista": "Mara y Elías",
+              "fecha": "2026-12-17",
+              "hora": "18:00",
+              "lugar": "Jardín Cultural, Calacoto",
+              "precioBs": 40,
+              "descripcion": "Mara y Elías ofrecen un concierto íntimo de dos voces y guitarras al aire libre. El programa alterna canciones originales, cuecas y versiones en formato acústico."
+            },
+            {
+              "id": "piano-intimo",
+              "titulo": "Piano íntimo",
+              "artista": "Lucía Ferrufino",
+              "fecha": "2026-12-18",
+              "hora": "19:00",
+              "lugar": "Auditorio del Montículo, Sopocachi",
+              "precioBs": 55,
+              "descripcion": "Lucía Ferrufino interpreta un programa para piano solo que enlaza minimalismo, música de cine y obras propias. La sesión incluye una conversación breve sobre el proceso de composición."
+            }
+          ]
+        },
+        {
+          "nombre": "Música experimental",
+          "eventos": [
+            {
+              "id": "laboratorio-sonoro",
+              "titulo": "Laboratorio sonoro",
+              "artista": "Objeto Resonante",
+              "fecha": "2026-12-19",
+              "hora": "20:00",
+              "lugar": "Espacio Kúu, Obrajes",
+              "precioBs": 30,
+              "descripcion": "Objeto Resonante construye música en vivo con grabaciones de campo, instrumentos preparados y objetos cotidianos. El público podrá recorrer el espacio durante la presentación."
             }
           ]
         }

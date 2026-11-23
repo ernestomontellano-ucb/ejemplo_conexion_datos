@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    {
+      "nombre": "",
+      "subcategorias": [
+        {
+          "nombre": "",
+          "eventos": [
+            {
+              "id": "",
+              "titulo": "",
+              "artista": "",
+              "fecha": "",
+              "hora": "",
+              "lugar": "",
+              "precioBs": null,
+              "descripcion": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
